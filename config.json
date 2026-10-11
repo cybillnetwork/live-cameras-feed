@@ -1,0 +1,8 @@
+{
+  "daily_quota_budget": 9000,
+  "search_radius_km": 50,
+  "max_per_city": 6,
+  "max_total": 500,
+  "include_keywords": ["cam", "webcam", "live view", "camera", "kamera", "cámara", "câmera", "caméra", "telecamera", "камера", "カメラ", "카메라", "摄像", "panorama", "skyline", "harbour", "harbor", "beach", "port", "street view"],
+  "exclude_keywords": ["news", "radio", "music", "song", "lofi", "lo-fi", "beats", "podcast", "gameplay", "gaming", "minecraft", "fortnite", "gta", "roblox", "church", "mass", "sermon", "prayer", "worship", "crypto", "bitcoin", "forex", "trading", "asmr", "sleep sounds", "dashcam compilation", "highlights", "reaction", "concert", "dj set", "election", "parliament", "court"]
+}
