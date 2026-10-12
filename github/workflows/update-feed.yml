@@ -1,0 +1,44 @@
+name: Update live cameras feed
+
+on:
+  schedule:
+    - cron: "17 8 * * *"      # every day at 08:17 UTC (just after YouTube's quota resets)
+  workflow_dispatch:           # adds a "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write              # lets the workflow commit the updated live-cameras.json
+
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests
+
+      - name: Build feed from YouTube
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/build_feed.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- live-cameras.json; then
+            echo "Feed unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add live-cameras.json
+          git commit -m "Update live cameras feed"
+          git push
