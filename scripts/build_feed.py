@@ -238,8 +238,16 @@ def main():
         cities=cities, config=config, previous=previous, manual=manual,
         today=datetime.date.today(),
     )
-    for error in errors:
+    for error in errors[:10]:
         print("Note:", error)
+    if len(errors) > 10:
+        print(f"Note: ...and {len(errors) - 10} more")
+    # Every search was rejected (usually a wrong or restricted API key): fail visibly with the reason.
+    if searched == 0 and errors:
+        print("::error::No YouTube search succeeded. First error: " + errors[0])
+        print("Check the YOUTUBE_API_KEY secret: it must be a YouTube Data API v3 key with "
+              "Application restrictions set to None (not your iOS Maps key).")
+        return 1
     if feed is None:
         print("Feed not updated.")
         return 0
