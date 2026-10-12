@@ -34,8 +34,8 @@ class FakeYouTube:
             if self.quota_after is not None and self.searches >= self.quota_after:
                 raise bf.QuotaExceeded()
             self.searches += 1
-            lat = params["location"].split(",")[0]
-            ids = self.search_results.get(lat, [])
+            city = params["q"].split(" live cam")[0]
+            ids = self.search_results.get(city, [])
             return {"items": [{"id": {"videoId": i}} for i in ids]}
         if endpoint == "videos":
             return {"items": [self.videos[i] for i in params["id"].split(",") if i in self.videos]}
@@ -46,9 +46,10 @@ class BuildFeedTests(unittest.TestCase):
     today = datetime.date(2026, 10, 11)
 
     def test_filters_keep_only_live_embeddable_webcams(self):
-        yt = FakeYouTube({"-33.869": ["a1", "b2", "c3", "d4", "e5"]}, [
+        yt = FakeYouTube({"Sydney": ["a1", "b2", "c3", "d4", "e5", "x9"]}, [
             video("a1", "🔴 Sydney Harbour Live Cam 24/7", lat=-33.857),
             video("b2", "Sydney beach webcam", embeddable=False),
+            video("x9", "Random city webcam 24/7"),
             video("c3", "Opera house camera", live=False),
             video("d4", "Lofi beats to study - live"),
             video("e5", "Bondi webcam", ended=True),
@@ -67,7 +68,7 @@ class BuildFeedTests(unittest.TestCase):
             {"id": "yt-old1", "youtubeVideoId": "old1", "latitude": 35.67, "longitude": 139.65},
             {"id": "yt-old2", "youtubeVideoId": "old2", "latitude": 35.67, "longitude": 139.65},
         ]
-        yt = FakeYouTube({}, [video("old1", "Shibuya crossing live camera"), video("old2", "Tokyo webcam", ended=True)])
+        yt = FakeYouTube({}, [video("old1", "Tokyo Shibuya crossing live camera"), video("old2", "Tokyo webcam", ended=True)])
         feed, *_ = bf.build(yt, CITIES, CONFIG, previous=previous, manual=[], today=self.today)
         self.assertEqual([c["youtubeVideoId"] for c in feed], ["old1"])
         self.assertEqual(feed[0]["city"], "Tokyo")
@@ -75,14 +76,14 @@ class BuildFeedTests(unittest.TestCase):
     def test_manual_entries_always_first_and_not_duplicated(self):
         manual = [{"id": "yt-mine", "name": "My cam", "city": "Sydney", "country": "Australia",
                    "latitude": -33.8, "longitude": 151.2, "player": "youtube", "youtubeVideoId": "a1"}]
-        yt = FakeYouTube({"-33.869": ["a1"]}, [video("a1", "Harbour live cam")])
+        yt = FakeYouTube({"Sydney": ["a1"]}, [video("a1", "Sydney Harbour live cam")])
         feed, *_ = bf.build(yt, CITIES, CONFIG, previous=[], manual=manual, today=self.today)
         self.assertEqual(len(feed), 1)
         self.assertEqual(feed[0]["id"], "yt-mine")
 
     def test_quota_during_search_keeps_partial_results(self):
-        yt = FakeYouTube({"-33.869": ["a1"], "35.676": ["t1"]},
-                         [video("a1", "Harbour live cam"), video("t1", "Tokyo live camera")], quota_after_searches=1)
+        yt = FakeYouTube({"Sydney": ["a1"], "Tokyo": ["t1"]},
+                         [video("a1", "Sydney Harbour live cam"), video("t1", "Tokyo live camera")], quota_after_searches=1)
         feed, used, searched, errors = bf.build(yt, CITIES, CONFIG, previous=[], manual=[], today=self.today)
         self.assertEqual(searched, 1)
         self.assertEqual(len(feed), 1)
@@ -90,7 +91,7 @@ class BuildFeedTests(unittest.TestCase):
 
     def test_max_per_city(self):
         ids = [f"v{i}" for i in range(10)]
-        yt = FakeYouTube({"-33.869": ids}, [video(i, f"Sydney live cam {i}") for i in ids])
+        yt = FakeYouTube({"Sydney": ids}, [video(i, f"Sydney live cam {i}") for i in ids])
         config = {**CONFIG, "max_per_city": 3}
         feed, *_ = bf.build(yt, CITIES, config, previous=[], manual=[], today=self.today)
         self.assertEqual(len(feed), 3)
