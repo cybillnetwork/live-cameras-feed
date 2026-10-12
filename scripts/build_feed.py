@@ -76,6 +76,13 @@ def looks_like_webcam(title, description, config):
     return any(word in text for word in config["include_keywords"])
 
 
+def mentions_city(video, city):
+    snippet = video.get("snippet", {})
+    text = " ".join([snippet.get("title", ""), snippet.get("description", "")[:500], snippet.get("channelTitle", "")]).lower()
+    name = city["name"].lower()
+    return name in text or name.split()[0] in text
+
+
 def clean_title(title):
     title = re.sub(r"[\U0001F300-\U0001FAFF\u2600-\u27BF\uFE0F]", "", title)   # emoji
     title = re.sub(r"\s+", " ", title).strip(" -|·•")
@@ -92,15 +99,15 @@ def rotation(cities, searches_today, today):
 
 
 def search_city(city, config, get):
+    """Live, embeddable streams for "<city> live cam". Searching by name finds far more webcams than
+    YouTube's location filter, which only matches the few streams that carry location data."""
     data = get("search", {
         "part": "snippet",
         "type": "video",
         "eventType": "live",
         "videoEmbeddable": "true",
-        "safeSearch": "strict",
-        "q": "live cam|webcam|live camera",
-        "location": f"{city['latitude']},{city['longitude']}",
-        "locationRadius": f"{config['search_radius_km']}km",
+        "safeSearch": "moderate",
+        "q": f"{city['name']} live cam|{city['name']} webcam|{city['name']} live camera",
         "order": "viewCount",
         "maxResults": 50,
     })
@@ -204,19 +211,31 @@ def build(get, cities, config, previous, manual, today):
     manual_ids = {c.get("youtubeVideoId") or c.get("youtubeChannelId") for c in manual}
     per_city = {}
     automatic = []
+    dropped = {"not live/embeddable": 0, "not a webcam title": 0, "city not mentioned": 0, "city full": 0}
     for video_id, city in candidates.items():
         video = details.get(video_id)
-        if not video or video_id in manual_ids or not is_live_and_embeddable(video):
+        if not video or video_id in manual_ids:
+            continue
+        if not is_live_and_embeddable(video):
+            dropped["not live/embeddable"] += 1
             continue
         snippet = video.get("snippet", {})
         if not looks_like_webcam(snippet.get("title", ""), snippet.get("description", "")[:300], config):
+            dropped["not a webcam title"] += 1
+            continue
+        has_location = "location" in video.get("recordingDetails", {})
+        if not has_location and not mentions_city(video, city):
+            dropped["city not mentioned"] += 1
             continue
         key = city["name"]
         if per_city.get(key, 0) >= config["max_per_city"]:
+            dropped["city full"] += 1
             continue
         per_city[key] = per_city.get(key, 0) + 1
         automatic.append(camera_entry(video, city))
 
+    errors.append(f"Found {len(candidates)} candidate streams; kept {len(automatic)}; dropped: "
+                  + ", ".join(f"{reason} {count}" for reason, count in dropped.items()))
     automatic.sort(key=lambda c: (c["country"], c["city"], c["name"]))
     feed = list(manual) + automatic[: max(0, config["max_total"] - len(manual))]
     return feed, used, searched, errors
