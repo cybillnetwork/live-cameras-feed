@@ -78,19 +78,6 @@
     "timeZone": "America/Sao_Paulo"
   },
   {
-    "id": "yt-NkXqqEup-0s",
-    "name": "LIVE 24/7: Brazilian Farm & Pond Cam 🇧🇷|Fish,Sheep,Dogs&Nature Sounds Countrysid",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "countryCode": "BR",
-    "latitude": -23.551,
-    "longitude": -46.633,
-    "player": "youtube",
-    "youtubeVideoId": "NkXqqEup-0s",
-    "provider": "Vida na Roça Brazil Live Cam Wildlife Nature",
-    "timeZone": "America/Sao_Paulo"
-  },
-  {
     "id": "yt-TPpuWYRjU1k",
     "name": "LIVE Montreal Trudeau Airport CYUL 24/7 Webcam Runway 24R",
     "city": "Montreal",
@@ -101,19 +88,6 @@
     "player": "youtube",
     "youtubeVideoId": "TPpuWYRjU1k",
     "provider": "Moore Equipment Ltd.",
-    "timeZone": "America/Toronto"
-  },
-  {
-    "id": "yt-fKtOmHfi3M8",
-    "name": "Toronto LIVE 🇨🇦 | Gardiner Traffic + Downtown Skyline | 4K",
-    "city": "Toronto",
-    "country": "Canada",
-    "countryCode": "CA",
-    "latitude": 43.653,
-    "longitude": -79.383,
-    "player": "youtube",
-    "youtubeVideoId": "fKtOmHfi3M8",
-    "provider": "Toronto Live View",
     "timeZone": "America/Toronto"
   },
   {
@@ -143,7 +117,7 @@
     "timeZone": "Asia/Hong_Kong"
   },
   {
-    "id": "yt-oxlSsmJFUMM",
+    "id": "yt-KZeYtZOUhys",
     "name": "Hong Kong live camera Live Stream",
     "city": "Hong Kong",
     "country": "Hong Kong",
@@ -151,7 +125,7 @@
     "latitude": 22.32,
     "longitude": 114.169,
     "player": "youtube",
-    "youtubeVideoId": "oxlSsmJFUMM",
+    "youtubeVideoId": "KZeYtZOUhys",
     "provider": "Hong Kong live camera",
     "timeZone": "Asia/Hong_Kong"
   },
@@ -195,6 +169,19 @@
     "timeZone": "Asia/Hong_Kong"
   },
   {
+    "id": "yt-qHYJwgqsV2g",
+    "name": "LIVE | Abhijeet Dipke Detained: Delhi Police Face-Off Ahead of CJP Tiranga March",
+    "city": "Delhi",
+    "country": "India",
+    "countryCode": "IN",
+    "latitude": 28.614,
+    "longitude": 77.209,
+    "player": "youtube",
+    "youtubeVideoId": "qHYJwgqsV2g",
+    "provider": "Republic World",
+    "timeZone": "Asia/Kolkata"
+  },
+  {
     "id": "yt-tXF929Rn98Q",
     "name": "INDONESIA LIVE 24/7 | Jakarta, Bali, Surabaya | CCTV Indonesia Live 24 Cam",
     "city": "Bali",
@@ -221,7 +208,7 @@
     "timeZone": "Asia/Jerusalem"
   },
   {
-    "id": "yt-neW4HHjtms8",
+    "id": "yt-dSU3qg9o0NI",
     "name": "LIVE CAMERA Kyoto【京都おすすめ】常寂光寺山門 と おぐら茶屋",
     "city": "Kyoto",
     "country": "Japan",
@@ -229,7 +216,7 @@
     "latitude": 35.012,
     "longitude": 135.768,
     "player": "youtube",
-    "youtubeVideoId": "neW4HHjtms8",
+    "youtubeVideoId": "dSU3qg9o0NI",
     "provider": "おぐら茶屋・京のココ見といやす　my favorite KYOTO  [Ogura-chaya]",
     "timeZone": "Asia/Tokyo"
   },
@@ -260,7 +247,20 @@
     "timeZone": "Asia/Tokyo"
   },
   {
-    "id": "yt-OFDFultuo8c",
+    "id": "yt-n5Gt3gi28YI",
+    "name": "京都府亀岡市大井町並河ライブカメラ Kyoto Kameoka Live camera.world.cam",
+    "city": "Kyoto",
+    "country": "Japan",
+    "countryCode": "JP",
+    "latitude": 35.012,
+    "longitude": 135.768,
+    "player": "youtube",
+    "youtubeVideoId": "n5Gt3gi28YI",
+    "provider": "京都府亀岡市大井町並河ライブカメラ",
+    "timeZone": "Asia/Tokyo"
+  },
+  {
+    "id": "yt-lWqp7lXZLBg",
     "name": "京都府京都市右京区京北周山町ライブカメラ Kyoto Kyotoshi Live camera.world.cam",
     "city": "Kyoto",
     "country": "Japan",
@@ -268,8 +268,47 @@
     "latitude": 35.012,
     "longitude": 135.768,
     "player": "youtube",
-    "youtubeVideoId": "OFDFultuo8c",
+    "youtubeVideoId": "lWqp7lXZLBg",
     "provider": "京都府京都市右京区京北周山町ライブカメラ",
+    "timeZone": "Asia/Tokyo"
+  },
+  {
+    "id": "yt-Pv1nB-zgoKs",
+    "name": "#8131okichan 沖縄県 国際通り安里三叉路 マキシアルパビル ライブ映像 Okinawa Kokusai Street Live Camera",
+    "city": "Okinawa",
+    "country": "Japan",
+    "countryCode": "JP",
+    "latitude": 26.212,
+    "longitude": 127.681,
+    "player": "youtube",
+    "youtubeVideoId": "Pv1nB-zgoKs",
+    "provider": "8131 okichan",
+    "timeZone": "Asia/Tokyo"
+  },
+  {
+    "id": "yt-CXmD-0NCwu8",
+    "name": "#8131okichan 沖縄県 国際通り安里三叉路 マキシアルパビル ライブ映像 Okinawa Kokusai Street Live Camera",
+    "city": "Okinawa",
+    "country": "Japan",
+    "countryCode": "JP",
+    "latitude": 26.212,
+    "longitude": 127.681,
+    "player": "youtube",
+    "youtubeVideoId": "CXmD-0NCwu8",
+    "provider": "8131 okichan",
+    "timeZone": "Asia/Tokyo"
+  },
+  {
+    "id": "yt-G4Rdfw55uTA",
+    "name": "10月16日.明日（17日）の時間天気【Live Camera】4k那覇市首里より: HOURLY WEATHER／OKINAWA.JIAPAN.나하시 슈리에",
+    "city": "Okinawa",
+    "country": "Japan",
+    "countryCode": "JP",
+    "latitude": 26.212,
+    "longitude": 127.681,
+    "player": "youtube",
+    "youtubeVideoId": "G4Rdfw55uTA",
+    "provider": "タダシ3436",
     "timeZone": "Asia/Tokyo"
   },
   {
@@ -364,6 +403,19 @@
     "timeZone": "Asia/Tokyo"
   },
   {
+    "id": "yt-DKKnFt2ZepU",
+    "name": "北海道 札幌市東区本町一条ライブカメラ Hokkaido Sapporo Live camera.world.cam",
+    "city": "Sapporo",
+    "country": "Japan",
+    "countryCode": "JP",
+    "latitude": 43.062,
+    "longitude": 141.354,
+    "player": "youtube",
+    "youtubeVideoId": "DKKnFt2ZepU",
+    "provider": "北海道 札幌市東区本町一条ライブカメラ",
+    "timeZone": "Asia/Tokyo"
+  },
+  {
     "id": "yt-ncvEMktxVd4",
     "name": "［LIVE CAMERA］札幌 狸小路 ライブカメラ（４丁目） Tanukikoji Shopping Street in Sapporo, Hokkaido,",
     "city": "Sapporo",
@@ -377,15 +429,15 @@
     "timeZone": "Asia/Tokyo"
   },
   {
-    "id": "yt-UGHx0llw_VY",
-    "name": "[LIVE] Kabukicho Live Camera Stream 2 2026/10/15 18:00",
+    "id": "yt-J3ucvymzX4E",
+    "name": "[LIVE] Kabukicho Live Camera Stream 2 2026/10/16 18:00",
     "city": "Tokyo",
     "country": "Japan",
     "countryCode": "JP",
     "latitude": 35.676,
     "longitude": 139.65,
     "player": "youtube",
-    "youtubeVideoId": "UGHx0llw_VY",
+    "youtubeVideoId": "J3ucvymzX4E",
     "provider": "Kabukicho Live Camera",
     "timeZone": "Asia/Tokyo"
   },
@@ -404,7 +456,7 @@
   },
   {
     "id": "yt-4ZiucC7cvw8",
-    "name": "【10月のJAZZ】一日の終わりに東京の夜景｜くつろぎライブ｜ Tokyo Live Camera Mt.Fuji & Rainbow Bridge",
+    "name": "【10月のJAZZ】Tokyo Night Healing｜レインボーブリッジの夜景ライブ｜ Tokyo Live Camera Mt.Fuji & Rainb",
     "city": "Tokyo",
     "country": "Japan",
     "countryCode": "JP",
@@ -416,7 +468,7 @@
     "timeZone": "Asia/Tokyo"
   },
   {
-    "id": "yt-v9hEAfjqHio",
+    "id": "yt-MABbilb3IVE",
     "name": "【LIVE】JR 中央線 高尾駅 周辺 ライブカメラ / 4K LIVE TOKYO JAPAN",
     "city": "Tokyo",
     "country": "Japan",
@@ -424,26 +476,26 @@
     "latitude": 35.676,
     "longitude": 139.65,
     "player": "youtube",
-    "youtubeVideoId": "v9hEAfjqHio",
+    "youtubeVideoId": "MABbilb3IVE",
     "provider": "TTSC CH",
     "timeZone": "Asia/Tokyo"
   },
   {
-    "id": "yt-KTJ1ImuT1Qo",
-    "name": "【LIVE】新宿・歌舞伎町 ライブカメラ 2026/10/15 12:00〜",
+    "id": "yt-L9Z5ay1NGY4",
+    "name": "【LIVE】新宿・歌舞伎町 ライブカメラ 2026/10/16 12:00〜",
     "city": "Tokyo",
     "country": "Japan",
     "countryCode": "JP",
     "latitude": 35.676,
     "longitude": 139.65,
     "player": "youtube",
-    "youtubeVideoId": "KTJ1ImuT1Qo",
+    "youtubeVideoId": "L9Z5ay1NGY4",
     "provider": "Kabukicho Live Camera",
     "timeZone": "Asia/Tokyo"
   },
   {
     "id": "yt-8fHrDSqHy54",
-    "name": "ライブ3Dカメラ東京羽田空港 3D LIVE Tokyo Haneda Airport (RJTT)ATC + WX",
+    "name": "【羽田空港 ライブカメラ】24時間 3D航空交通・リアルタイム航空無線 ATC・AIフライト情報｜Haneda Airport LIVE (HND/RJTT)",
     "city": "Tokyo",
     "country": "Japan",
     "countryCode": "JP",
@@ -468,7 +520,7 @@
     "timeZone": "America/Cancun"
   },
   {
-    "id": "yt-tITH9xQG1Zo",
+    "id": "yt-AvNG26cFy2Q",
     "name": "KATHMANDU LIVE CAM 🇳🇵 | NEPAL'S CAPITAL CITY LIVE | WEBCAM NEPAL",
     "city": "Kathmandu",
     "country": "Nepal",
@@ -476,22 +528,22 @@
     "latitude": 27.717,
     "longitude": 85.324,
     "player": "youtube",
-    "youtubeVideoId": "tITH9xQG1Zo",
+    "youtubeVideoId": "AvNG26cFy2Q",
     "provider": "WEBCAM NEPAL CITIES & TOWNS",
     "timeZone": "Asia/Kathmandu"
   },
   {
-    "id": "yt-Q4yrHzgAuOo",
-    "name": "WEBCAM NEPAL LIVE - KATHMANDU PTZ",
-    "city": "Kathmandu",
-    "country": "Nepal",
-    "countryCode": "NP",
-    "latitude": 27.717,
-    "longitude": 85.324,
+    "id": "yt-AQTGCh1Xqh0",
+    "name": "Warszawa na żywo 🇵🇱 | Warsaw LIVE – panorama i Stadion Narodowy / City Skyline &",
+    "city": "Warsaw",
+    "country": "Poland",
+    "countryCode": "PL",
+    "latitude": 52.23,
+    "longitude": 21.012,
     "player": "youtube",
-    "youtubeVideoId": "Q4yrHzgAuOo",
-    "provider": "WEBCAM NEPAL CITIES & TOWNS",
-    "timeZone": "Asia/Kathmandu"
+    "youtubeVideoId": "AQTGCh1Xqh0",
+    "provider": "Warsaw Livestream",
+    "timeZone": "Europe/Warsaw"
   },
   {
     "id": "yt-w9PFn2beeFw",
@@ -507,7 +559,7 @@
     "timeZone": "Asia/Singapore"
   },
   {
-    "id": "yt-hS7nsna56mo",
+    "id": "yt-jha5W07e5Bs",
     "name": "Cape Town Live Stream 24/7 | Table Mountain, Lion's Head & Harbour Live Cam",
     "city": "Cape Town",
     "country": "South Africa",
@@ -515,7 +567,7 @@
     "latitude": -33.925,
     "longitude": 18.424,
     "player": "youtube",
-    "youtubeVideoId": "hS7nsna56mo",
+    "youtubeVideoId": "jha5W07e5Bs",
     "provider": "FLOORING․CO․ZA",
     "timeZone": "Africa/Johannesburg"
   },
@@ -530,19 +582,6 @@
     "player": "youtube",
     "youtubeVideoId": "1QH44L9PsAo",
     "provider": "Cape Ocean Adventures ",
-    "timeZone": "Africa/Johannesburg"
-  },
-  {
-    "id": "yt-D-63nZp3zck",
-    "name": "LIVE 🇦🇴 TAAG AIRBUS A220-300 | Cape Town- AEROPORTO DR. ANTÓNIO AGOSTINHO NETO",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "countryCode": "ZA",
-    "latitude": -33.925,
-    "longitude": 18.424,
-    "player": "youtube",
-    "youtubeVideoId": "D-63nZp3zck",
-    "provider": "Isís Gamer 🇦🇴",
     "timeZone": "Africa/Johannesburg"
   },
   {
@@ -572,6 +611,19 @@
     "timeZone": "Asia/Seoul"
   },
   {
+    "id": "yt-elT43I__DHk",
+    "name": "Seoul Train Live Cam 24/7 | Korea KTX, Metro & Freight Trains | 영등포역 기차 라이브",
+    "city": "Seoul",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "latitude": 37.567,
+    "longitude": 126.978,
+    "player": "youtube",
+    "youtubeVideoId": "elT43I__DHk",
+    "provider": "Seoul Rail Live",
+    "timeZone": "Asia/Seoul"
+  },
+  {
     "id": "yt-AKcsJqkcRP0",
     "name": "서울실시간 석촌호수라이브 Live Cam I Seoul, \"Seokchon Lake\", Seoul,Korea I 서울관광지 서울호수 잠실롯데몰",
     "city": "Seoul",
@@ -598,17 +650,17 @@
     "timeZone": "Asia/Seoul"
   },
   {
-    "id": "yt-c4JhZk07w0Q",
-    "name": "2026/10/15 14:37:20 4K Live stream, AI camera, 即時影像, 新北市 五股 五工六路, New Taipei Cit",
-    "city": "Taipei",
-    "country": "Taiwan",
-    "countryCode": "TW",
-    "latitude": 25.033,
-    "longitude": 121.565,
+    "id": "yt-d1Hqy8eNi9w",
+    "name": "Barcelona Spain live cam from Baix Guinardo skyline internet eye",
+    "city": "Barcelona",
+    "country": "Spain",
+    "countryCode": "ES",
+    "latitude": 41.388,
+    "longitude": 2.17,
     "player": "youtube",
-    "youtubeVideoId": "c4JhZk07w0Q",
-    "provider": "拉普拉斯惡魔",
-    "timeZone": "Asia/Taipei"
+    "youtubeVideoId": "d1Hqy8eNi9w",
+    "provider": "NicusNicusNicus(mil_house23)",
+    "timeZone": "Europe/Madrid"
   },
   {
     "id": "yt-X1l_sV4-1kQ",
@@ -650,7 +702,7 @@
     "timeZone": "Asia/Bangkok"
   },
   {
-    "id": "yt-KP16MgbXUDM",
+    "id": "yt-o3Q3cCm0HNI",
     "name": "SOUTH PATTAYA LIVE CAM",
     "city": "Pattaya",
     "country": "Thailand",
@@ -658,7 +710,7 @@
     "latitude": 12.927,
     "longitude": 100.877,
     "player": "youtube",
-    "youtubeVideoId": "KP16MgbXUDM",
+    "youtubeVideoId": "o3Q3cCm0HNI",
     "provider": "SOUTH PATTAYA LIVE CAM",
     "timeZone": "Asia/Bangkok"
   },
@@ -702,6 +754,19 @@
     "timeZone": "Asia/Bangkok"
   },
   {
+    "id": "yt-zZ6Pa4yfkN4",
+    "name": "Istanbul:Galata & Kız Kulesi Live Stream Istanbul #Bosphorus #Istanbul #boğaz #l",
+    "city": "Istanbul",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "latitude": 41.008,
+    "longitude": 28.978,
+    "player": "youtube",
+    "youtubeVideoId": "zZ6Pa4yfkN4",
+    "provider": "Istanbul: Golden Horn Live: Galata & Kız Kulesi ",
+    "timeZone": "Europe/Istanbul"
+  },
+  {
     "id": "yt-Hg3WXuf3D0Y",
     "name": "24/7 Live Cams: Ukraine – Russia Conflict",
     "city": "Kyiv",
@@ -715,7 +780,7 @@
     "timeZone": "Europe/Kyiv"
   },
   {
-    "id": "yt-I0lxvkKQPgU",
+    "id": "yt-hXoK9lvYJqE",
     "name": "UKRAINE LIVE NOW Real-Time Cameras: Kyiv, Kharkiv, Odesa, Zaporizhzhia, Donetsk",
     "city": "Kyiv",
     "country": "Ukraine",
@@ -723,7 +788,7 @@
     "latitude": 50.45,
     "longitude": 30.524,
     "player": "youtube",
-    "youtubeVideoId": "I0lxvkKQPgU",
+    "youtubeVideoId": "hXoK9lvYJqE",
     "provider": "Aurelian Mocanu",
     "timeZone": "Europe/Kyiv"
   },
@@ -738,19 +803,6 @@
     "player": "youtube",
     "youtubeVideoId": "uDBYuEV4zjI",
     "provider": "BIG JET TV",
-    "timeZone": "Europe/London"
-  },
-  {
-    "id": "yt-TPuHVC-D_YM",
-    "name": "Heathrow Airport Live - Thursday 15th October 2026",
-    "city": "London",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "latitude": 51.46799,
-    "longitude": -0.45505,
-    "player": "youtube",
-    "youtubeVideoId": "TPuHVC-D_YM",
-    "provider": "Flight Focus 365",
     "timeZone": "Europe/London"
   },
   {
@@ -780,19 +832,6 @@
     "timeZone": "Europe/London"
   },
   {
-    "id": "yt-rUSatFBOOGk",
-    "name": "LIVE Trains Railcam | London, Ontario",
-    "city": "London",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "latitude": 42.98492,
-    "longitude": -81.24528,
-    "player": "youtube",
-    "youtubeVideoId": "rUSatFBOOGk",
-    "provider": "LIVE Trains",
-    "timeZone": "Europe/London"
-  },
-  {
     "id": "yt-znmUEZUM9Zc",
     "name": "London Webcam LIVE 4K | London Bridge & River Thames | Golden Hinde",
     "city": "London",
@@ -819,45 +858,6 @@
     "timeZone": "Europe/London"
   },
   {
-    "id": "yt-EnV7NRA8xNI",
-    "name": "LIVE Manchester UK Webcam 🇬🇧 | Manchester City Live 24/7 | 4K",
-    "city": "Manchester",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "latitude": 53.481,
-    "longitude": -2.243,
-    "player": "youtube",
-    "youtubeVideoId": "EnV7NRA8xNI",
-    "provider": "Manchester UK Webcams",
-    "timeZone": "Europe/London"
-  },
-  {
-    "id": "yt-gHPE1QQphE4",
-    "name": "Manchester Iowa Whitewater Park Live Stream Camera 1",
-    "city": "Manchester",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "latitude": 53.481,
-    "longitude": -2.243,
-    "player": "youtube",
-    "youtubeVideoId": "gHPE1QQphE4",
-    "provider": "Manchester Iowa Whitewater Park",
-    "timeZone": "Europe/London"
-  },
-  {
-    "id": "yt-jPAJefGpTEc",
-    "name": "Manchester Iowa Whitewater Park Live Stream Camera 2",
-    "city": "Manchester",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "latitude": 53.481,
-    "longitude": -2.243,
-    "player": "youtube",
-    "youtubeVideoId": "jPAJefGpTEc",
-    "provider": "Manchester Iowa Whitewater Park",
-    "timeZone": "Europe/London"
-  },
-  {
     "id": "yt-ud1zupQMHA8",
     "name": "Peregrine Networks Live Peregrine Falcon Feed1 (Manchester, NH, USA)",
     "city": "Manchester",
@@ -881,19 +881,6 @@
     "player": "youtube",
     "youtubeVideoId": "wPCrbAjyl6U",
     "provider": "Third Polar Arch",
-    "timeZone": "America/New_York"
-  },
-  {
-    "id": "yt-w6_OCml6xs4",
-    "name": "Oct 15, 6:49 am ... Boston Logan Airport",
-    "city": "Boston",
-    "country": "United States",
-    "countryCode": "US",
-    "latitude": 42.36,
-    "longitude": -71.059,
-    "player": "youtube",
-    "youtubeVideoId": "w6_OCml6xs4",
-    "provider": "Boston Logan View EastieGuys",
     "timeZone": "America/New_York"
   },
   {
@@ -975,21 +962,8 @@
     "timeZone": "America/Los_Angeles"
   },
   {
-    "id": "yt-px1tPYeQFuE",
-    "name": "Las Vegas, Gijón, ISS, Banjarmasin y Asturias EN DIRECTO · Webcams 24/7 con IA |",
-    "city": "Las Vegas",
-    "country": "United States",
-    "countryCode": "US",
-    "latitude": 36.114,
-    "longitude": -115.173,
-    "player": "youtube",
-    "youtubeVideoId": "px1tPYeQFuE",
-    "provider": "Pixel Cast",
-    "timeZone": "America/Los_Angeles"
-  },
-  {
     "id": "yt-E7BkRmObxV4",
-    "name": "*LIVE* Los Angeles Police Scanner Audio LAPD Police LAFD Fire // 15-OCT-2026 //",
+    "name": "*LIVE* Los Angeles Police Scanner Audio LAPD Police LAFD Fire // 16-OCT-2026 //",
     "city": "Los Angeles",
     "country": "United States",
     "countryCode": "US",
@@ -1092,19 +1066,6 @@
     "timeZone": "America/New_York"
   },
   {
-    "id": "yt-L1S6fkRkoXM",
-    "name": "Hamptons.com - LIVE! Shinnecock Fishing Dock, Hampton Bays, New York",
-    "city": "New York",
-    "country": "United States",
-    "countryCode": "US",
-    "latitude": 40.758,
-    "longitude": -73.986,
-    "player": "youtube",
-    "youtubeVideoId": "L1S6fkRkoXM",
-    "provider": "Hamptons Bay & Harbor Cams",
-    "timeZone": "America/New_York"
-  },
-  {
     "id": "yt-iGTvyIVB8ys",
     "name": "Hamptons.com - LIVE! Tiana Beach, Hampton Bays, New York",
     "city": "New York",
@@ -1115,6 +1076,19 @@
     "player": "youtube",
     "youtubeVideoId": "iGTvyIVB8ys",
     "provider": "Hamptons Beach Cams",
+    "timeZone": "America/New_York"
+  },
+  {
+    "id": "yt-T_QsY01tIK0",
+    "name": "LGA Airport LIVE 24/7 • LaGuardia, New York",
+    "city": "New York",
+    "country": "United States",
+    "countryCode": "US",
+    "latitude": 40.758,
+    "longitude": -73.986,
+    "player": "youtube",
+    "youtubeVideoId": "T_QsY01tIK0",
+    "provider": "Flightradar24",
     "timeZone": "America/New_York"
   },
   {
@@ -1144,43 +1118,17 @@
     "timeZone": "America/New_York"
   },
   {
-    "id": "yt-koXJ4suevuI",
-    "name": "Newark EWR plane spotting, rail fanning, New Jersey Drone UFO Watch LIVE Thursda",
+    "id": "yt-0nbyhQGgCHw",
+    "name": "Walking in New York at Night / Explore Midtown Manhattan / NYC Walking Tour 4K",
     "city": "New York",
     "country": "United States",
     "countryCode": "US",
-    "latitude": 40.73153,
-    "longitude": -74.17447,
+    "latitude": 40.758,
+    "longitude": -73.986,
     "player": "youtube",
-    "youtubeVideoId": "koXJ4suevuI",
-    "provider": "JerseyJoe50",
+    "youtubeVideoId": "0nbyhQGgCHw",
+    "provider": "WALKS and the CITY",
     "timeZone": "America/New_York"
-  },
-  {
-    "id": "yt-7s9g4T_qFL0",
-    "name": "Castro Street Cam 1 Live Stream",
-    "city": "San Francisco",
-    "country": "United States",
-    "countryCode": "US",
-    "latitude": 37.775,
-    "longitude": -122.419,
-    "player": "youtube",
-    "youtubeVideoId": "7s9g4T_qFL0",
-    "provider": "Castro Street Cam 1",
-    "timeZone": "America/Los_Angeles"
-  },
-  {
-    "id": "yt-4J9tAMsc-f4",
-    "name": "Castro Street Cam 2 Live Stream",
-    "city": "San Francisco",
-    "country": "United States",
-    "countryCode": "US",
-    "latitude": 37.775,
-    "longitude": -122.419,
-    "player": "youtube",
-    "youtubeVideoId": "4J9tAMsc-f4",
-    "provider": "Castro Street Cam 2",
-    "timeZone": "America/Los_Angeles"
   },
   {
     "id": "yt-iQ7XJDXYSMo",
@@ -1209,6 +1157,19 @@
     "timeZone": "America/Los_Angeles"
   },
   {
+    "id": "yt-PDKGik7Np88",
+    "name": "Pier 23 Cafe, San Francisco Bay | San Francisco, CA USA | StreamTime LIVE",
+    "city": "San Francisco",
+    "country": "United States",
+    "countryCode": "US",
+    "latitude": 37.775,
+    "longitude": -122.419,
+    "player": "youtube",
+    "youtubeVideoId": "PDKGik7Np88",
+    "provider": "StreamTime Live",
+    "timeZone": "America/Los_Angeles"
+  },
+  {
     "id": "yt-xwWQvX6G0LE",
     "name": "Poverty Bay - Puget Sound / Seattle Area Live Cam #livecam",
     "city": "Seattle",
@@ -1220,32 +1181,6 @@
     "youtubeVideoId": "xwWQvX6G0LE",
     "provider": "Poverty Bay - Puget Sound / Seattle Area Live Cam ",
     "timeZone": "America/Los_Angeles"
-  },
-  {
-    "id": "yt-6Er6q3fvhb0",
-    "name": "LIVE EAST Dungeness Bay Webcam from Juan de Fuca Cottages | Sequim WA Coastal Vi",
-    "city": "Washington",
-    "country": "United States",
-    "countryCode": "US",
-    "latitude": 38.895,
-    "longitude": -77.036,
-    "player": "youtube",
-    "youtubeVideoId": "6Er6q3fvhb0",
-    "provider": "Joshua Brocklesby",
-    "timeZone": "America/New_York"
-  },
-  {
-    "id": "yt-KQX-Ao7cF0E",
-    "name": "LIVE: Mount Washington Observatory Weather Cam (view from Wildcat)",
-    "city": "Washington",
-    "country": "United States",
-    "countryCode": "US",
-    "latitude": 38.895,
-    "longitude": -77.036,
-    "player": "youtube",
-    "youtubeVideoId": "KQX-Ao7cF0E",
-    "provider": "Mount Washington Observatory",
-    "timeZone": "America/New_York"
   },
   {
     "id": "yt-2blgPhEGUy0",
