@@ -13,16 +13,16 @@
     "timeZone": "America/Argentina/Buenos_Aires"
   },
   {
-    "id": "yt-NfsyRx50gAI",
-    "name": "Cámara en vivo | UADE Campus Buenos Aires",
+    "id": "yt-V4UDUxOl5E0",
+    "name": "EN VIVO 24/7 | Buenos Aires, Argentina 🇦🇷 | Cámara PTZ Hikvision 36X en 4MP",
     "city": "Buenos Aires",
     "country": "Argentina",
     "countryCode": "AR",
     "latitude": -34.604,
     "longitude": -58.382,
     "player": "youtube",
-    "youtubeVideoId": "NfsyRx50gAI",
-    "provider": "UADE",
+    "youtubeVideoId": "V4UDUxOl5E0",
+    "provider": "Boaz Soluciones",
     "timeZone": "America/Argentina/Buenos_Aires"
   },
   {
@@ -52,19 +52,6 @@
     "timeZone": "America/Argentina/Buenos_Aires"
   },
   {
-    "id": "yt-OYVUBm7AB1Y",
-    "name": "Bowleaze Cove Beach (Weymouth, UK) Live Webcam @ Beachside Cafe",
-    "city": "Gold Coast",
-    "country": "Australia",
-    "countryCode": "AU",
-    "latitude": 50.63636,
-    "longitude": -2.42151,
-    "player": "youtube",
-    "youtubeVideoId": "OYVUBm7AB1Y",
-    "provider": "Beach Life Cams",
-    "timeZone": "Australia/Brisbane"
-  },
-  {
     "id": "yt-zPyz2mKoYGo",
     "name": "Live webcam at Seatown Beach in Dorset, looking West to Golden Cap and Lyme Regi",
     "city": "Gold Coast",
@@ -91,19 +78,6 @@
     "timeZone": "Australia/Brisbane"
   },
   {
-    "id": "yt-tBEIYdw1HeM",
-    "name": "Manhattan Beach Cam and Surf Report",
-    "city": "Gold Coast",
-    "country": "Australia",
-    "countryCode": "AU",
-    "latitude": 33.90382,
-    "longitude": -118.41916,
-    "player": "youtube",
-    "youtubeVideoId": "tBEIYdw1HeM",
-    "provider": "The Surfers View",
-    "timeZone": "Australia/Brisbane"
-  },
-  {
     "id": "yt-I0A2zRu1R0Q",
     "name": "Sandown Camera | Beach & Esplanade | Isle of Wight Webcams UK LIVE",
     "city": "Gold Coast",
@@ -117,6 +91,19 @@
     "timeZone": "Australia/Brisbane"
   },
   {
+    "id": "yt-succ1fhHm7I",
+    "name": "Sea Breeze Cam, sponsored by Cofton Holidays - Dawlish Webcam - 4k Webcam",
+    "city": "Gold Coast",
+    "country": "Australia",
+    "countryCode": "AU",
+    "latitude": 50.58181,
+    "longitude": -3.46565,
+    "player": "youtube",
+    "youtubeVideoId": "succ1fhHm7I",
+    "provider": "Coast Cams",
+    "timeZone": "Australia/Brisbane"
+  },
+  {
     "id": "yt-pEH8f1dz6T4",
     "name": "South East Queensland TMR Camera Network",
     "city": "Gold Coast",
@@ -127,6 +114,19 @@
     "player": "youtube",
     "youtubeVideoId": "pEH8f1dz6T4",
     "provider": "SEQ LIVE",
+    "timeZone": "Australia/Brisbane"
+  },
+  {
+    "id": "yt--kEGYQcdeXQ",
+    "name": "Weymouth Beach / Bandstand Webcam Live @ Saltwater Shack",
+    "city": "Gold Coast",
+    "country": "Australia",
+    "countryCode": "AU",
+    "latitude": 50.61855,
+    "longitude": -2.44985,
+    "player": "youtube",
+    "youtubeVideoId": "-kEGYQcdeXQ",
+    "provider": "Beach Life Cams",
     "timeZone": "Australia/Brisbane"
   },
   {
@@ -208,6 +208,19 @@
     "timeZone": "Australia/Melbourne"
   },
   {
+    "id": "yt-WyuvxYlnA60",
+    "name": "Perth Airport | Live Flight Arrivals & Departure Informations | @LiveAirways_AU",
+    "city": "Perth",
+    "country": "Australia",
+    "countryCode": "AU",
+    "latitude": -31.95,
+    "longitude": 115.861,
+    "player": "youtube",
+    "youtubeVideoId": "WyuvxYlnA60",
+    "provider": "Live Airways Australia",
+    "timeZone": "Australia/Perth"
+  },
+  {
     "id": "yt-6Xxb5uikewE",
     "name": "SurveillanceMap LIVE · Sydney Harbour · Australia",
     "city": "Sydney",
@@ -218,19 +231,6 @@
     "player": "youtube",
     "youtubeVideoId": "6Xxb5uikewE",
     "provider": "Surveillance Map Foundation",
-    "timeZone": "Australia/Sydney"
-  },
-  {
-    "id": "yt-GHEmhcWjiTE",
-    "name": "Vancouver LIVE 24/7 | Harbour Action, Seaplanes & Skyline Views",
-    "city": "Sydney",
-    "country": "Australia",
-    "countryCode": "AU",
-    "latitude": 49.28273,
-    "longitude": -123.12074,
-    "player": "youtube",
-    "youtubeVideoId": "GHEmhcWjiTE",
-    "provider": "Vancouver Port Live",
     "timeZone": "Australia/Sydney"
   },
   {
@@ -338,16 +338,16 @@
     "timeZone": "America/Sao_Paulo"
   },
   {
-    "id": "yt-h31MH52FBHU",
-    "name": "AO VIVO 24h: Bichos do Sítio 🇧🇷 Farm Animals Live Cam | Animais da Fazenda | Vid",
+    "id": "yt-etXN0q9GEGs",
+    "name": "Câmera ao Vivo 24h | Centro de São Paulo | São Paulo - GEOLAN LIVE.",
     "city": "São Paulo",
     "country": "Brazil",
     "countryCode": "BR",
     "latitude": -23.551,
     "longitude": -46.633,
     "player": "youtube",
-    "youtubeVideoId": "h31MH52FBHU",
-    "provider": "Vida na Roça Brazil Live Cam Wildlife Nature",
+    "youtubeVideoId": "etXN0q9GEGs",
+    "provider": "Geolan Tecnologia",
     "timeZone": "America/Sao_Paulo"
   },
   {
@@ -364,6 +364,19 @@
     "timeZone": "America/Sao_Paulo"
   },
   {
+    "id": "yt-YZjb3wHH1cY",
+    "name": "Peruibe São Paulo ao Vivo - Praia e Cotidiano | Brazil Beach Live Cam",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "latitude": -23.551,
+    "longitude": -46.633,
+    "player": "youtube",
+    "youtubeVideoId": "YZjb3wHH1cY",
+    "provider": "Lente Livre - Baixada Santista",
+    "timeZone": "America/Sao_Paulo"
+  },
+  {
     "id": "yt-fGYrAZAdHBU",
     "name": "Porto ao Vivo - Entrada no Canal do Porto de Santos",
     "city": "São Paulo",
@@ -374,19 +387,6 @@
     "player": "youtube",
     "youtubeVideoId": "fGYrAZAdHBU",
     "provider": "Praticagem de São Paulo - Canal Oficial",
-    "timeZone": "America/Sao_Paulo"
-  },
-  {
-    "id": "yt-hAEXNkLjH_s",
-    "name": "RÁDIO GAÚCHA AO VIVO 24 HORAS",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "countryCode": "BR",
-    "latitude": -23.551,
-    "longitude": -46.633,
-    "player": "youtube",
-    "youtubeVideoId": "hAEXNkLjH_s",
-    "provider": "Gaúcha",
     "timeZone": "America/Sao_Paulo"
   },
   {
@@ -702,16 +702,16 @@
     "timeZone": "America/Vancouver"
   },
   {
-    "id": "yt-rxyNjFKwzJA",
-    "name": "Vancouver LIVE Cam | Cruise Ship LiveStream 24/7 | City Views & Canada Place | A",
+    "id": "yt-GHEmhcWjiTE",
+    "name": "Vancouver LIVE 24/7 | Harbour Action, Seaplanes & Skyline Views",
     "city": "Vancouver",
     "country": "Canada",
     "countryCode": "CA",
     "latitude": 49.28273,
     "longitude": -123.12074,
     "player": "youtube",
-    "youtubeVideoId": "rxyNjFKwzJA",
-    "provider": "Vancouver City Views",
+    "youtubeVideoId": "GHEmhcWjiTE",
+    "provider": "Vancouver Port Live",
     "timeZone": "America/Vancouver"
   },
   {
@@ -936,19 +936,6 @@
     "timeZone": "Europe/Paris"
   },
   {
-    "id": "yt-7NkekAjAb5c",
-    "name": "Black Swan Cam Dawlish",
-    "city": "Nice",
-    "country": "France",
-    "countryCode": "FR",
-    "latitude": 50.58181,
-    "longitude": -3.46565,
-    "player": "youtube",
-    "youtubeVideoId": "7NkekAjAb5c",
-    "provider": "Black Swans of Dawlish",
-    "timeZone": "Europe/Paris"
-  },
-  {
     "id": "yt-QI-PPEW2Bgc",
     "name": "Live Webcam - Vue de Paris avec la Tour Eiffel et la Tour Montparnasse",
     "city": "Paris",
@@ -999,32 +986,6 @@
     "youtubeVideoId": "p6nAlz4_bdI",
     "provider": "🔴 Vision-Environnement - Webcams LIVE",
     "timeZone": "Europe/Paris"
-  },
-  {
-    "id": "yt-4Xg-wkPazp4",
-    "name": "BerlinWebcam1: Straße des 17.Juni mit S-Bahnbrücke - Skyline hinter den Bäumen d",
-    "city": "Berlin",
-    "country": "Germany",
-    "countryCode": "DE",
-    "latitude": 52.52,
-    "longitude": 13.405,
-    "player": "youtube",
-    "youtubeVideoId": "4Xg-wkPazp4",
-    "provider": "Günther Kohlbecker",
-    "timeZone": "Europe/Berlin"
-  },
-  {
-    "id": "yt-nU_YA7ypzu4",
-    "name": "BerlinWebcam2: S-Bahnbrücke über die Straße des 17.Juni",
-    "city": "Berlin",
-    "country": "Germany",
-    "countryCode": "DE",
-    "latitude": 52.52,
-    "longitude": 13.405,
-    "player": "youtube",
-    "youtubeVideoId": "nU_YA7ypzu4",
-    "provider": "Günther Kohlbecker",
-    "timeZone": "Europe/Berlin"
   },
   {
     "id": "yt-l6Hf0ymcwVQ",
@@ -1326,6 +1287,32 @@
     "timeZone": "Atlantic/Reykjavik"
   },
   {
+    "id": "yt-sE9Bnxqd0EU",
+    "name": "Bengaluru - Kempegowda International Airport | Live Arrivals & Departures | @Liv",
+    "city": "Bengaluru",
+    "country": "India",
+    "countryCode": "IN",
+    "latitude": 12.972,
+    "longitude": 77.595,
+    "player": "youtube",
+    "youtubeVideoId": "sE9Bnxqd0EU",
+    "provider": "Live Airways India 1",
+    "timeZone": "Asia/Kolkata"
+  },
+  {
+    "id": "yt-bltJm2Qhnuw",
+    "name": "Live Cam: Koh Samui West Coastline - Real-time Weather & Ocean Views",
+    "city": "Surat",
+    "country": "India",
+    "countryCode": "IN",
+    "latitude": 21.17,
+    "longitude": 72.831,
+    "player": "youtube",
+    "youtubeVideoId": "bltJm2Qhnuw",
+    "provider": "Living in Samui",
+    "timeZone": "Asia/Kolkata"
+  },
+  {
     "id": "yt-onXhMdHEx54",
     "name": "Arkaluna Kintamani Weather Live Cam • Mount Batur Sunrise • Bali Live Webcam",
     "city": "Bali",
@@ -1365,28 +1352,15 @@
     "timeZone": "Asia/Makassar"
   },
   {
-    "id": "yt-FVdmnpJ2kM0",
-    "name": "Live Now: 24/7 Kilauea Volcano Watch in Hawaii (Multi-cams)",
+    "id": "yt-edz0ux7JClE",
+    "name": "San Diego Web Cam Live (Rotating/Switched Feed) 4K",
     "city": "Bali",
     "country": "Indonesia",
     "countryCode": "ID",
-    "latitude": 19.40689,
-    "longitude": -155.28338,
+    "latitude": 32.71574,
+    "longitude": -117.16108,
     "player": "youtube",
-    "youtubeVideoId": "FVdmnpJ2kM0",
-    "provider": "afarTV",
-    "timeZone": "Asia/Makassar"
-  },
-  {
-    "id": "yt-cvP_F-c2Upw",
-    "name": "The Rooftop Bar | Oceanside, CA | San Diego Web Cam",
-    "city": "Bali",
-    "country": "Indonesia",
-    "countryCode": "ID",
-    "latitude": 33.19457,
-    "longitude": -117.38279,
-    "player": "youtube",
-    "youtubeVideoId": "cvP_F-c2Upw",
+    "youtubeVideoId": "edz0ux7JClE",
     "provider": "San Diego Web Cam",
     "timeZone": "Asia/Makassar"
   },
@@ -1401,6 +1375,32 @@
     "player": "youtube",
     "youtubeVideoId": "wCPR2Lieee8",
     "provider": "Dj Serabichanl",
+    "timeZone": "Asia/Jakarta"
+  },
+  {
+    "id": "yt-zZowGIkUb-k",
+    "name": "LIVE DJ BREAKBEAT STADIUM X GOLDEN CROWN REMIX TERBARU 2026",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "latitude": -6.208,
+    "longitude": 106.846,
+    "player": "youtube",
+    "youtubeVideoId": "zZowGIkUb-k",
+    "provider": "ApriNaLdyTM",
+    "timeZone": "Asia/Jakarta"
+  },
+  {
+    "id": "yt-W1cYwMvaIVM",
+    "name": "Live Rec NEW KONCO DEWE Campursari - Wedding Fiki & Ilmi Pulo Gadung - PONO AUDI",
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "latitude": -6.208,
+    "longitude": 106.846,
+    "player": "youtube",
+    "youtubeVideoId": "W1cYwMvaIVM",
+    "provider": "Anugrah Mandiri Jakarta Production's",
     "timeZone": "Asia/Jakarta"
   },
   {
@@ -2081,7 +2081,7 @@
   },
   {
     "id": "yt-4ZiucC7cvw8",
-    "name": "【10月のJAZZ】東京湾の景色で集中｜作業・勉強がはかどるライブ配信｜ Tokyo Live Camera Mt.Fuji & Rainbow Bridge",
+    "name": "【10月のJAZZ】Tokyo Night Healing｜レインボーブリッジの夜景ライブ｜ Tokyo Live Camera Mt.Fuji & Rainb",
     "city": "Tokyo",
     "country": "Japan",
     "countryCode": "JP",
@@ -2195,6 +2195,32 @@
     "youtubeVideoId": "Dgm3RMVy-OY",
     "provider": "Namibia LiveStream | Discover Namibia",
     "timeZone": "Africa/Windhoek"
+  },
+  {
+    "id": "yt-wXNuh5KtfKQ",
+    "name": "KATHMANDU LIVE CAM 🇳🇵 | NEPAL'S CAPITAL CITY LIVE | WEBCAM NEPAL",
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "countryCode": "NP",
+    "latitude": 27.717,
+    "longitude": 85.324,
+    "player": "youtube",
+    "youtubeVideoId": "wXNuh5KtfKQ",
+    "provider": "WEBCAM NEPAL CITIES & TOWNS",
+    "timeZone": "Asia/Kathmandu"
+  },
+  {
+    "id": "yt-4h4EjQLo01Q",
+    "name": "WEBCAM NEPAL LIVE - KATHMANDU PTZ",
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "countryCode": "NP",
+    "latitude": 27.717,
+    "longitude": 85.324,
+    "player": "youtube",
+    "youtubeVideoId": "4h4EjQLo01Q",
+    "provider": "WEBCAM NEPAL CITIES & TOWNS",
+    "timeZone": "Asia/Kathmandu"
   },
   {
     "id": "yt-R8MRTG0pYdc",
@@ -2574,19 +2600,6 @@
     "timeZone": "Asia/Manila"
   },
   {
-    "id": "yt-P7bbH4Ps2kA",
-    "name": "Warszawa na żywo 🇵🇱 | Warsaw LIVE – panorama i Stadion Narodowy / City Skyline &",
-    "city": "Warsaw",
-    "country": "Poland",
-    "countryCode": "PL",
-    "latitude": 52.23,
-    "longitude": 21.012,
-    "player": "youtube",
-    "youtubeVideoId": "P7bbH4Ps2kA",
-    "provider": "Warsaw Livestream",
-    "timeZone": "Europe/Warsaw"
-  },
-  {
     "id": "yt-tKIgNtEgLN0",
     "name": "I love Lx Live Stream",
     "city": "Lisbon",
@@ -2611,6 +2624,19 @@
     "youtubeVideoId": "-q7PIgn8YLY",
     "provider": "Africam",
     "timeZone": "Europe/Lisbon"
+  },
+  {
+    "id": "yt-yrx0fvj-4QI",
+    "name": "LIVE WEBCAM from TENERIFE AIRPORT - (Canary Islands, Spain)",
+    "city": "Doha",
+    "country": "Qatar",
+    "countryCode": "QA",
+    "latitude": 28.9554,
+    "longitude": -13.60031,
+    "player": "youtube",
+    "youtubeVideoId": "yrx0fvj-4QI",
+    "provider": "LanzaroteWebcam",
+    "timeZone": "Asia/Qatar"
   },
   {
     "id": "yt-VhGdKCs5KIA",
@@ -2691,6 +2717,19 @@
     "timeZone": "Asia/Singapore"
   },
   {
+    "id": "yt-RyaK9YggR7k",
+    "name": "Singapore City Live Camera | 4K UHD",
+    "city": "Singapore",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "latitude": 1.29,
+    "longitude": 103.852,
+    "player": "youtube",
+    "youtubeVideoId": "RyaK9YggR7k",
+    "provider": "DIKIPIDIA",
+    "timeZone": "Asia/Singapore"
+  },
+  {
     "id": "yt-6fdFZUqi0oU",
     "name": "Universal Studios Live Worldwide Virtual Webcam Stream - Hollywood, Orlando, Sin",
     "city": "Singapore",
@@ -2728,6 +2767,19 @@
     "youtubeVideoId": "rQ3VvxadJeo",
     "provider": "SingReef",
     "timeZone": "Asia/Singapore"
+  },
+  {
+    "id": "yt-gV2Lj_a-IoQ",
+    "name": "Cape May Cove Live Cam with views of the Cove Beach, Cape May Light House and Gr",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "latitude": -33.925,
+    "longitude": 18.424,
+    "player": "youtube",
+    "youtubeVideoId": "gV2Lj_a-IoQ",
+    "provider": "Jim Ginn",
+    "timeZone": "Africa/Johannesburg"
   },
   {
     "id": "yt-1QH44L9PsAo",
@@ -3289,6 +3341,19 @@
     "timeZone": "Asia/Bangkok"
   },
   {
+    "id": "yt-gOVXtPu2uv8",
+    "name": "PHUKET LIVE 🇹🇭 Current sky weather. City horizon view Monkey mountain.",
+    "city": "Phuket",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "latitude": 7.88,
+    "longitude": 98.392,
+    "player": "youtube",
+    "youtubeVideoId": "gOVXtPu2uv8",
+    "provider": "Upsky view",
+    "timeZone": "Asia/Bangkok"
+  },
+  {
     "id": "yt-zsmvEf_PTpY",
     "name": "Phuket Live Webcam | Weather & Sea Conditions | Cape Panwa, Thailand",
     "city": "Phuket",
@@ -3302,16 +3367,29 @@
     "timeZone": "Asia/Bangkok"
   },
   {
-    "id": "yt-awqoL8ZxbDI",
-    "name": "24/7 Live Cams: Ukraine – Russia Conflict",
+    "id": "yt-ZjfFGJlkjmE",
+    "name": "Webcam Grote Markt - Groningen",
+    "city": "Istanbul",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "latitude": 53.21863,
+    "longitude": 6.56827,
+    "player": "youtube",
+    "youtubeVideoId": "ZjfFGJlkjmE",
+    "provider": "Bouwwebcam - live stream & timelapse video",
+    "timeZone": "Europe/Istanbul"
+  },
+  {
+    "id": "yt-Nkss4w7tWfk",
+    "name": "UKRAINE LIVE NOW Real-Time Cameras: Kyiv, Kharkiv, Odesa, Zaporizhzhia, Donetsk",
     "city": "Kyiv",
     "country": "Ukraine",
     "countryCode": "UA",
     "latitude": 50.45,
     "longitude": 30.524,
     "player": "youtube",
-    "youtubeVideoId": "awqoL8ZxbDI",
-    "provider": "Live Perspectives",
+    "youtubeVideoId": "Nkss4w7tWfk",
+    "provider": "Aurelian Mocanu",
     "timeZone": "Europe/Kyiv"
   },
   {
@@ -3328,16 +3406,16 @@
     "timeZone": "Europe/Kyiv"
   },
   {
-    "id": "yt-mHTTPNYltZo",
-    "name": "Breckenridge Ski Area and Mountain Cam by Breckenridge Associates",
+    "id": "yt-OYVUBm7AB1Y",
+    "name": "Bowleaze Cove Beach (Weymouth, UK) Live Webcam @ Beachside Cafe",
     "city": "Brighton",
     "country": "United Kingdom",
     "countryCode": "GB",
-    "latitude": 39.47962,
-    "longitude": -106.04611,
+    "latitude": 50.63636,
+    "longitude": -2.42151,
     "player": "youtube",
-    "youtubeVideoId": "mHTTPNYltZo",
-    "provider": "Breckenridge Associates Real Estate",
+    "youtubeVideoId": "OYVUBm7AB1Y",
+    "provider": "Beach Life Cams",
     "timeZone": "Europe/London"
   },
   {
@@ -3367,6 +3445,19 @@
     "timeZone": "Europe/London"
   },
   {
+    "id": "yt-zqVnJDJIBgA",
+    "name": "Lyme Regis (UK) Live Webcam @ Swim Cafe, Bar & Restaurant",
+    "city": "Brighton",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "latitude": 50.72135,
+    "longitude": -2.93811,
+    "player": "youtube",
+    "youtubeVideoId": "zqVnJDJIBgA",
+    "provider": "Beach Life Cams",
+    "timeZone": "Europe/London"
+  },
+  {
     "id": "yt-2eQlFsurl-s",
     "name": "Overcombe Beach (Weymouth, UK) Live Webcam",
     "city": "Brighton",
@@ -3389,19 +3480,6 @@
     "longitude": -2.45242,
     "player": "youtube",
     "youtubeVideoId": "oKHp1joZDMU",
-    "provider": "Beach Life Cams",
-    "timeZone": "Europe/London"
-  },
-  {
-    "id": "yt-zqVnJDJIBgA",
-    "name": "Lyme Regis (UK) Live Webcam @ Swim Cafe, Bar & Restaurant",
-    "city": "Edinburgh",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "latitude": 50.72135,
-    "longitude": -2.93811,
-    "player": "youtube",
-    "youtubeVideoId": "zqVnJDJIBgA",
     "provider": "Beach Life Cams",
     "timeZone": "Europe/London"
   },
@@ -3458,15 +3536,15 @@
     "timeZone": "Europe/London"
   },
   {
-    "id": "yt-W6DmEDByEcI",
-    "name": "Heathrow Airport Live - Friday 30th October 2026",
+    "id": "yt-DlZxbYjuZ7g",
+    "name": "Heathrow Airport Live - Saturday 31st October 2026",
     "city": "London",
     "country": "United Kingdom",
     "countryCode": "GB",
     "latitude": 51.46799,
     "longitude": -0.45505,
     "player": "youtube",
-    "youtubeVideoId": "W6DmEDByEcI",
+    "youtubeVideoId": "DlZxbYjuZ7g",
     "provider": "Flight Focus 365",
     "timeZone": "Europe/London"
   },
@@ -3484,7 +3562,7 @@
     "timeZone": "Europe/London"
   },
   {
-    "id": "yt-cf9uxEFIDtI",
+    "id": "yt-U-XyMFyX4x0",
     "name": "LIVE Notting Hill Gate Station - London 4K Webcam",
     "city": "London",
     "country": "United Kingdom",
@@ -3492,7 +3570,7 @@
     "latitude": 51.507,
     "longitude": -0.128,
     "player": "youtube",
-    "youtubeVideoId": "cf9uxEFIDtI",
+    "youtubeVideoId": "U-XyMFyX4x0",
     "provider": "Notting Hill Gate Cam",
     "timeZone": "Europe/London"
   },
@@ -3507,6 +3585,19 @@
     "player": "youtube",
     "youtubeVideoId": "YVOq4aNKNvs",
     "provider": "Bradford Broadband Systems",
+    "timeZone": "Europe/London"
+  },
+  {
+    "id": "yt-7NkekAjAb5c",
+    "name": "Black Swan Cam Dawlish",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "latitude": 50.58181,
+    "longitude": -3.46565,
+    "player": "youtube",
+    "youtubeVideoId": "7NkekAjAb5c",
+    "provider": "Black Swans of Dawlish",
     "timeZone": "Europe/London"
   },
   {
@@ -3562,19 +3653,6 @@
     "timeZone": "Europe/London"
   },
   {
-    "id": "yt-i07IVN7ZKek",
-    "name": "Peregrine Networks Live Peregrine Falcon Feed3 (Manchester, NH, USA)",
-    "city": "Manchester",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "latitude": 53.481,
-    "longitude": -2.243,
-    "player": "youtube",
-    "youtubeVideoId": "i07IVN7ZKek",
-    "provider": "Peregrine Networks",
-    "timeZone": "Europe/London"
-  },
-  {
     "id": "yt-WMSiw_Hyac8",
     "name": "Anchorage, Alaska, USA | LIVE Train Camera (Fixed View – North)",
     "city": "Anchorage",
@@ -3598,19 +3676,6 @@
     "player": "youtube",
     "youtubeVideoId": "61pi8UjLOlo",
     "provider": "StreamTime Live",
-    "timeZone": "America/Anchorage"
-  },
-  {
-    "id": "yt-q2Dxx5704fQ",
-    "name": "Miami International Airport (MIA) Live Cam | Embassy Suites by Hilton Miami Inte",
-    "city": "Anchorage",
-    "country": "United States",
-    "countryCode": "US",
-    "latitude": 25.80666,
-    "longitude": -80.26159,
-    "player": "youtube",
-    "youtubeVideoId": "q2Dxx5704fQ",
-    "provider": "Ozolio Live",
     "timeZone": "America/Anchorage"
   },
   {
@@ -3809,6 +3874,19 @@
     "timeZone": "Pacific/Honolulu"
   },
   {
+    "id": "yt-FVdmnpJ2kM0",
+    "name": "Live Now: 24/7 Kilauea Volcano Watch in Hawaii (Multi-cams)",
+    "city": "Honolulu",
+    "country": "United States",
+    "countryCode": "US",
+    "latitude": 19.40689,
+    "longitude": -155.28338,
+    "player": "youtube",
+    "youtubeVideoId": "FVdmnpJ2kM0",
+    "provider": "afarTV",
+    "timeZone": "Pacific/Honolulu"
+  },
+  {
     "id": "yt-d-Gbk7dbMws",
     "name": "Oahu, Hawaii 4K - Exploring Hawaii's Stunning Beaches and Volcanic Wonders - 4K",
     "city": "Honolulu",
@@ -3844,19 +3922,6 @@
     "longitude": -157.8225,
     "player": "youtube",
     "youtubeVideoId": "4CK0CsimBHs",
-    "provider": "Ozolio Live",
-    "timeZone": "Pacific/Honolulu"
-  },
-  {
-    "id": "yt-GL_2CrLwSDA",
-    "name": "Wailea Beach Live Webcam | Maui, Hawaii – Wailea Beach Resort Marriott",
-    "city": "Honolulu",
-    "country": "United States",
-    "countryCode": "US",
-    "latitude": 20.68789,
-    "longitude": -156.4428,
-    "player": "youtube",
-    "youtubeVideoId": "GL_2CrLwSDA",
     "provider": "Ozolio Live",
     "timeZone": "Pacific/Honolulu"
   },
@@ -3939,6 +4004,19 @@
     "timeZone": "America/New_York"
   },
   {
+    "id": "yt-mHTTPNYltZo",
+    "name": "Breckenridge Ski Area and Mountain Cam by Breckenridge Associates",
+    "city": "Las Vegas",
+    "country": "United States",
+    "countryCode": "US",
+    "latitude": 39.47962,
+    "longitude": -106.04611,
+    "player": "youtube",
+    "youtubeVideoId": "mHTTPNYltZo",
+    "provider": "Breckenridge Associates Real Estate",
+    "timeZone": "America/Los_Angeles"
+  },
+  {
     "id": "yt-KJuGU7v5oYw",
     "name": "EarthCam Live: Bellagio Conservatory & Botanical Gardens (Las Vegas, NV)",
     "city": "Las Vegas",
@@ -4004,19 +4082,6 @@
     "timeZone": "America/Los_Angeles"
   },
   {
-    "id": "yt-ZaPt2niVJyY",
-    "name": "Las Vegas, NM | BNSF Raton Sub MP 770 - PTZ | SouthWest RailCams LIVE",
-    "city": "Las Vegas",
-    "country": "United States",
-    "countryCode": "US",
-    "latitude": 35.59435,
-    "longitude": -105.2127,
-    "player": "youtube",
-    "youtubeVideoId": "ZaPt2niVJyY",
-    "provider": "SouthWest RailCams",
-    "timeZone": "America/Los_Angeles"
-  },
-  {
     "id": "yt-B4-L2nfGcuE",
     "name": "Big Bear Bald Eagle Live Nest - Cam 1",
     "city": "Los Angeles",
@@ -4040,6 +4105,19 @@
     "player": "youtube",
     "youtubeVideoId": "v97JpT3ZA0w",
     "provider": "Explore Big Surf, Beaches and Sunsets",
+    "timeZone": "America/Los_Angeles"
+  },
+  {
+    "id": "yt-tBEIYdw1HeM",
+    "name": "Manhattan Beach Cam and Surf Report",
+    "city": "Los Angeles",
+    "country": "United States",
+    "countryCode": "US",
+    "latitude": 33.90382,
+    "longitude": -118.41916,
+    "player": "youtube",
+    "youtubeVideoId": "tBEIYdw1HeM",
+    "provider": "The Surfers View",
     "timeZone": "America/Los_Angeles"
   },
   {
@@ -4069,28 +4147,15 @@
     "timeZone": "America/Los_Angeles"
   },
   {
-    "id": "yt-iaBfYxbmwXA",
-    "name": "San Diego Harbor Island Live Web Cam 4K",
+    "id": "yt-cvP_F-c2Upw",
+    "name": "The Rooftop Bar | Oceanside, CA | San Diego Web Cam",
     "city": "Los Angeles",
     "country": "United States",
     "countryCode": "US",
-    "latitude": 32.72416,
-    "longitude": -117.21308,
+    "latitude": 33.19457,
+    "longitude": -117.38279,
     "player": "youtube",
-    "youtubeVideoId": "iaBfYxbmwXA",
-    "provider": "San Diego Web Cam",
-    "timeZone": "America/Los_Angeles"
-  },
-  {
-    "id": "yt-ct7IRmzDggk",
-    "name": "San Diego Shelter Island (N) Live Web Cam",
-    "city": "Los Angeles",
-    "country": "United States",
-    "countryCode": "US",
-    "latitude": 32.71943,
-    "longitude": -117.22042,
-    "player": "youtube",
-    "youtubeVideoId": "ct7IRmzDggk",
+    "youtubeVideoId": "cvP_F-c2Upw",
     "provider": "San Diego Web Cam",
     "timeZone": "America/Los_Angeles"
   },
@@ -4160,16 +4225,16 @@
     "timeZone": "America/New_York"
   },
   {
-    "id": "yt-bZ4uxyLqV-E",
-    "name": "Live Cam From The Best Western In Jacksonville Beach, Fl.",
+    "id": "yt-q2Dxx5704fQ",
+    "name": "Miami International Airport (MIA) Live Cam | Embassy Suites by Hilton Miami Inte",
     "city": "Miami",
     "country": "United States",
     "countryCode": "US",
-    "latitude": 30.29311,
-    "longitude": -81.3904,
+    "latitude": 25.80666,
+    "longitude": -80.26159,
     "player": "youtube",
-    "youtubeVideoId": "bZ4uxyLqV-E",
-    "provider": "911 Surf Report",
+    "youtubeVideoId": "q2Dxx5704fQ",
+    "provider": "Ozolio Live",
     "timeZone": "America/New_York"
   },
   {
@@ -4430,19 +4495,6 @@
     "player": "youtube",
     "youtubeVideoId": "YV8hzUJCp88",
     "provider": "Steel Highway Railcams",
-    "timeZone": "America/Los_Angeles"
-  },
-  {
-    "id": "yt-xwWQvX6G0LE",
-    "name": "Poverty Bay - Puget Sound / Seattle Area Live Cam #livecam",
-    "city": "Seattle",
-    "country": "United States",
-    "countryCode": "US",
-    "latitude": 47.606,
-    "longitude": -122.332,
-    "player": "youtube",
-    "youtubeVideoId": "xwWQvX6G0LE",
-    "provider": "Poverty Bay - Puget Sound / Seattle Area Live Cam ",
     "timeZone": "America/Los_Angeles"
   },
   {
