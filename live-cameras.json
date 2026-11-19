@@ -91,6 +91,45 @@
     "timeZone": "Australia/Brisbane"
   },
   {
+    "id": "yt-succ1fhHm7I",
+    "name": "Sea Breeze Cam, sponsored by Cofton Holidays - Dawlish Webcam - 4k Webcam",
+    "city": "Gold Coast",
+    "country": "Australia",
+    "countryCode": "AU",
+    "latitude": 50.58181,
+    "longitude": -3.46565,
+    "player": "youtube",
+    "youtubeVideoId": "succ1fhHm7I",
+    "provider": "Coast Cams",
+    "timeZone": "Australia/Brisbane"
+  },
+  {
+    "id": "yt-GL_2CrLwSDA",
+    "name": "Wailea Beach Live Webcam | Maui, Hawaii – Wailea Beach Resort Marriott",
+    "city": "Gold Coast",
+    "country": "Australia",
+    "countryCode": "AU",
+    "latitude": 20.68789,
+    "longitude": -156.4428,
+    "player": "youtube",
+    "youtubeVideoId": "GL_2CrLwSDA",
+    "provider": "Ozolio Live",
+    "timeZone": "Australia/Brisbane"
+  },
+  {
+    "id": "yt-bZ4uxyLqV-E",
+    "name": "Live Cam From The Best Western In Jacksonville Beach, Fl.",
+    "city": "Melbourne",
+    "country": "Australia",
+    "countryCode": "AU",
+    "latitude": 30.29311,
+    "longitude": -81.3904,
+    "player": "youtube",
+    "youtubeVideoId": "bZ4uxyLqV-E",
+    "provider": "911 Surf Report",
+    "timeZone": "Australia/Melbourne"
+  },
+  {
     "id": "yt-LjGdR366xpE",
     "name": "Live Camera Axis P5655-E",
     "city": "Melbourne",
@@ -167,19 +206,6 @@
     "youtubeVideoId": "WyuvxYlnA60",
     "provider": "Live Airways Australia",
     "timeZone": "Australia/Perth"
-  },
-  {
-    "id": "yt-68mTnQht4Xo",
-    "name": "Sydney Harbour Live Camera 🇦🇺 | Clean Bridge & Opera House View",
-    "city": "Sydney",
-    "country": "Australia",
-    "countryCode": "AU",
-    "latitude": -33.869,
-    "longitude": 151.209,
-    "player": "youtube",
-    "youtubeVideoId": "68mTnQht4Xo",
-    "provider": "Sydney Harbour LIVE",
-    "timeZone": "Australia/Sydney"
   },
   {
     "id": "yt-F71Rdsx3TRA",
@@ -1313,6 +1339,45 @@
     "timeZone": "Asia/Makassar"
   },
   {
+    "id": "yt-ct7IRmzDggk",
+    "name": "San Diego Shelter Island (N) Live Web Cam",
+    "city": "Bali",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "latitude": 32.71943,
+    "longitude": -117.22042,
+    "player": "youtube",
+    "youtubeVideoId": "ct7IRmzDggk",
+    "provider": "San Diego Web Cam",
+    "timeZone": "Asia/Makassar"
+  },
+  {
+    "id": "yt-edz0ux7JClE",
+    "name": "San Diego Web Cam Live (Rotating/Switched Feed) 4K",
+    "city": "Bali",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "latitude": 32.71574,
+    "longitude": -117.16108,
+    "player": "youtube",
+    "youtubeVideoId": "edz0ux7JClE",
+    "provider": "San Diego Web Cam",
+    "timeZone": "Asia/Makassar"
+  },
+  {
+    "id": "yt-cvP_F-c2Upw",
+    "name": "The Rooftop Bar | Oceanside, CA | San Diego Web Cam",
+    "city": "Bali",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "latitude": 33.19457,
+    "longitude": -117.38279,
+    "player": "youtube",
+    "youtubeVideoId": "cvP_F-c2Upw",
+    "provider": "San Diego Web Cam",
+    "timeZone": "Asia/Makassar"
+  },
+  {
     "id": "yt-wCPR2Lieee8",
     "name": "Dj Breakbeat Indonesia X Stadium Jakarta 2026 Nonstop 24 Jam",
     "city": "Jakarta",
@@ -2418,7 +2483,7 @@
     "timeZone": "Europe/Oslo"
   },
   {
-    "id": "yt-iZrSCnhu5Kk",
+    "id": "yt-jnOzc1or-oE",
     "name": "NORTHERN LIGHTS LIVE FROM TROMSØ, NORWAY – 24/7 AURORA BOREALIS WEBCAM",
     "city": "Tromsø",
     "country": "Norway",
@@ -2426,7 +2491,7 @@
     "latitude": 69.649,
     "longitude": 18.956,
     "player": "youtube",
-    "youtubeVideoId": "iZrSCnhu5Kk",
+    "youtubeVideoId": "jnOzc1or-oE",
     "provider": "Arctic Campers",
     "timeZone": "Europe/Oslo"
   },
@@ -2626,7 +2691,7 @@
     "timeZone": "Asia/Manila"
   },
   {
-    "id": "yt-x_qCCKhBVOU",
+    "id": "yt-Vy4s4OHsNRw",
     "name": "Warszawa na żywo 🇵🇱 | Warsaw LIVE – panorama i Stadion Narodowy / City Skyline &",
     "city": "Warsaw",
     "country": "Poland",
@@ -2634,7 +2699,7 @@
     "latitude": 52.23,
     "longitude": 21.012,
     "player": "youtube",
-    "youtubeVideoId": "x_qCCKhBVOU",
+    "youtubeVideoId": "Vy4s4OHsNRw",
     "provider": "Warsaw Livestream",
     "timeZone": "Europe/Warsaw"
   },
@@ -2912,6 +2977,19 @@
     "timeZone": "Asia/Seoul"
   },
   {
+    "id": "yt-UYUDqPD8uCM",
+    "name": "부산실시간 광안대교 Live Cam l \"Gwangandaegyo Bridge\", Busan,Korea l 부산야경뷰 광안리해변 부산바다 바다라",
+    "city": "Busan",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "latitude": 35.18,
+    "longitude": 129.076,
+    "player": "youtube",
+    "youtubeVideoId": "UYUDqPD8uCM",
+    "provider": "GiGAeyes Live TV",
+    "timeZone": "Asia/Seoul"
+  },
+  {
     "id": "yt-P-STvpyu1yA",
     "name": "KOREA LIVE 24/7 | Seoul, Busan, Jeju | 한국 실시간 CCTV",
     "city": "Seoul",
@@ -2948,6 +3026,19 @@
     "player": "youtube",
     "youtubeVideoId": "IcTMxC_k57A",
     "provider": "GiGAeyes Live TV",
+    "timeZone": "Asia/Seoul"
+  },
+  {
+    "id": "yt-536M1XZGzIs",
+    "name": "서울실시간 광화문대로 Live Cam I \"Gwanghwamun Boulevard\" , Seoul, Korea I 서울광화문 광화문광장 서울여행",
+    "city": "Seoul",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "latitude": 37.567,
+    "longitude": 126.978,
+    "player": "youtube",
+    "youtubeVideoId": "536M1XZGzIs",
+    "provider": "GiGAeyesliveTV City View",
     "timeZone": "Asia/Seoul"
   },
   {
@@ -3026,19 +3117,6 @@
     "player": "youtube",
     "youtubeVideoId": "9nOjBJE9AUU",
     "provider": "SabinillasBeach · Holidays on the Costa Del Sol",
-    "timeZone": "Europe/Madrid"
-  },
-  {
-    "id": "yt-78t3Ov3dkY8",
-    "name": "Real Madrid - Inter FC Women's / Champions League Women's",
-    "city": "Madrid",
-    "country": "Spain",
-    "countryCode": "ES",
-    "latitude": 40.417,
-    "longitude": -3.704,
-    "player": "youtube",
-    "youtubeVideoId": "78t3Ov3dkY8",
-    "provider": "TDI gamer",
     "timeZone": "Europe/Madrid"
   },
   {
@@ -3130,19 +3208,6 @@
     "player": "youtube",
     "youtubeVideoId": "iCxfe27HpaY",
     "provider": "Grimentz Live",
-    "timeZone": "Europe/Zurich"
-  },
-  {
-    "id": "yt-hSVtxS60g0Q",
-    "name": "ZRH LIVE Windy Evening Plane Spotting at Zurich Airport",
-    "city": "Zurich",
-    "country": "Switzerland",
-    "countryCode": "CH",
-    "latitude": 47.377,
-    "longitude": 8.542,
-    "player": "youtube",
-    "youtubeVideoId": "hSVtxS60g0Q",
-    "provider": "ZurichAirportSpotter",
     "timeZone": "Europe/Zurich"
   },
   {
@@ -3432,19 +3497,6 @@
     "timeZone": "Europe/Kyiv"
   },
   {
-    "id": "yt-t-QQXHefg0o",
-    "name": "UKRAINE LIVE NOW Real-Time Cameras: Kyiv, Kharkiv, Odesa, Zaporizhzhia, Donetsk",
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "countryCode": "UA",
-    "latitude": 50.45,
-    "longitude": 30.524,
-    "player": "youtube",
-    "youtubeVideoId": "t-QQXHefg0o",
-    "provider": "dive",
-    "timeZone": "Europe/Kyiv"
-  },
-  {
     "id": "yt-e2gC37ILQmk",
     "name": "Ukraine live cam from Kyiv, Odessa, Kharkiv, Kramatorsk, Sloviansk, Donetsk, Dni",
     "city": "Kyiv",
@@ -3456,19 +3508,6 @@
     "youtubeVideoId": "e2gC37ILQmk",
     "provider": "TVL Trzcianka",
     "timeZone": "Europe/Kyiv"
-  },
-  {
-    "id": "yt-HVA8LQh0zXM",
-    "name": "Interstellar Tower, JVT Dubai | Live Construction Camera | Mr. Eight Development",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "countryCode": "AE",
-    "latitude": 25.205,
-    "longitude": 55.271,
-    "player": "youtube",
-    "youtubeVideoId": "HVA8LQh0zXM",
-    "provider": "Mr. Eight | Branded Residences",
-    "timeZone": "Asia/Dubai"
   },
   {
     "id": "yt-OYVUBm7AB1Y",
@@ -3601,15 +3640,15 @@
     "timeZone": "Europe/London"
   },
   {
-    "id": "yt-sF-LliWaWS4",
-    "name": "Heathrow Airport Live - Wednesday 18th November 2026",
+    "id": "yt-z3sa1Cqwp6U",
+    "name": "Heathrow Airport Live - Thursday 19th November 2026",
     "city": "London",
     "country": "United Kingdom",
     "countryCode": "GB",
     "latitude": 51.46799,
     "longitude": -0.45505,
     "player": "youtube",
-    "youtubeVideoId": "sF-LliWaWS4",
+    "youtubeVideoId": "z3sa1Cqwp6U",
     "provider": "Flight Focus 365",
     "timeZone": "Europe/London"
   },
@@ -3627,7 +3666,7 @@
     "timeZone": "Europe/London"
   },
   {
-    "id": "yt-XnwpR_U9LXA",
+    "id": "yt-g-v8iGOTdik",
     "name": "LIVE Notting Hill Gate Station - London 4K Webcam",
     "city": "London",
     "country": "United Kingdom",
@@ -3635,7 +3674,7 @@
     "latitude": 51.507,
     "longitude": -0.128,
     "player": "youtube",
-    "youtubeVideoId": "XnwpR_U9LXA",
+    "youtubeVideoId": "g-v8iGOTdik",
     "provider": "Notting Hill Gate Cam",
     "timeZone": "Europe/London"
   },
@@ -4485,7 +4524,7 @@
     "timeZone": "America/Los_Angeles"
   },
   {
-    "id": "yt-TSISjkPA-E0",
+    "id": "yt-sTVM6Sc80X0",
     "name": "Live SFO Plane Spotting | Real-Time Aircraft Tracking and ATC Audio at San Franc",
     "city": "San Francisco",
     "country": "United States",
@@ -4493,7 +4532,7 @@
     "latitude": 37.775,
     "longitude": -122.419,
     "player": "youtube",
-    "youtubeVideoId": "TSISjkPA-E0",
+    "youtubeVideoId": "sTVM6Sc80X0",
     "provider": "Luftra Aviation",
     "timeZone": "America/Los_Angeles"
   },
