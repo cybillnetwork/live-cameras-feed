@@ -404,7 +404,7 @@
   },
   {
     "id": "yt-hAEXNkLjH_s",
-    "name": "RÁDIO GAÚCHA AO VIVO 24 HORAS",
+    "name": "Situação da Orla do Guaíba, show do Kleiton & Kledir, trânsito e mais | Gaúcha+",
     "city": "São Paulo",
     "country": "Brazil",
     "countryCode": "BR",
@@ -937,7 +937,7 @@
   },
   {
     "id": "yt-9EZWvHjok0U",
-    "name": "Festive Studio: North Pole Live 2026, Santa Cam & Tracker, Nice List, Christmas",
+    "name": "Santa's Workshop Live: North Pole Cam 2026",
     "city": "Nice",
     "country": "France",
     "countryCode": "FR",
@@ -1274,6 +1274,19 @@
     "timeZone": "Asia/Hong_Kong"
   },
   {
+    "id": "yt-sy2_IFDwtFw",
+    "name": "【LIVE直播】香港 Hong Kong｜東涌｜港珠澳口岸 ｜ 機場 Airport｜ 亞洲博覽館 ｜屯門 - 屯赤隧道｜青嶼幹線｜港珠澳 - 交通、天氣及即時",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "latitude": 22.32,
+    "longitude": 114.169,
+    "player": "youtube",
+    "youtubeVideoId": "sy2_IFDwtFw",
+    "provider": "RingBoy@介子仔",
+    "timeZone": "Asia/Hong_Kong"
+  },
+  {
     "id": "yt-exshoGpNXZk",
     "name": "Live Aurora from Reykjavík Iceland",
     "city": "Reykjavík",
@@ -1362,6 +1375,32 @@
     "player": "youtube",
     "youtubeVideoId": "uKHK-X96a88",
     "provider": "Paradise Adventures",
+    "timeZone": "Asia/Makassar"
+  },
+  {
+    "id": "yt-ct7IRmzDggk",
+    "name": "San Diego Shelter Island (N) Live Web Cam",
+    "city": "Bali",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "latitude": 32.71943,
+    "longitude": -117.22042,
+    "player": "youtube",
+    "youtubeVideoId": "ct7IRmzDggk",
+    "provider": "San Diego Web Cam",
+    "timeZone": "Asia/Makassar"
+  },
+  {
+    "id": "yt-edz0ux7JClE",
+    "name": "San Diego Web Cam Live (Rotating/Switched Feed) 4K",
+    "city": "Bali",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "latitude": 32.71574,
+    "longitude": -117.16108,
+    "player": "youtube",
+    "youtubeVideoId": "edz0ux7JClE",
+    "provider": "San Diego Web Cam",
     "timeZone": "Asia/Makassar"
   },
   {
@@ -1492,19 +1531,6 @@
     "player": "youtube",
     "youtubeVideoId": "3CGGTwSf9Q4",
     "provider": "Daystar",
-    "timeZone": "Asia/Jerusalem"
-  },
-  {
-    "id": "yt-LMHUcDktP-w",
-    "name": "The Western Wall - Main Plaza Live Cam | מצלמות הכותל",
-    "city": "Jerusalem",
-    "country": "Israel",
-    "countryCode": "IL",
-    "latitude": 31.778,
-    "longitude": 35.235,
-    "player": "youtube",
-    "youtubeVideoId": "LMHUcDktP-w",
-    "provider": "הכותל המערבי ",
     "timeZone": "Asia/Jerusalem"
   },
   {
@@ -1924,16 +1950,16 @@
     "timeZone": "Asia/Tokyo"
   },
   {
-    "id": "yt-Om466kABIC4",
-    "name": "【LIVE】大阪環状線・梅田貨物線ライブカメラ Osaka, JAPAN | Train Camera",
+    "id": "yt-7ls-RzfPWKU",
+    "name": "【LIVE】大阪 道頓堀 ライブカメラ osaka Dotonbori LiveCamera",
     "city": "Osaka",
     "country": "Japan",
     "countryCode": "JP",
     "latitude": 34.694,
     "longitude": 135.502,
     "player": "youtube",
-    "youtubeVideoId": "Om466kABIC4",
-    "provider": "大阪環状線ライブカメラ",
+    "youtubeVideoId": "7ls-RzfPWKU",
+    "provider": "ラジカルビデオジョッキー RVJJP",
     "timeZone": "Asia/Tokyo"
   },
   {
@@ -2171,19 +2197,6 @@
     "timeZone": "America/Cancun"
   },
   {
-    "id": "yt-ZyIemjOTWa8",
-    "name": "Cancún, Quintana Roo En Vivo | Vista desde el Hotel Park Royal Beach Cancún",
-    "city": "Cancún",
-    "country": "Mexico",
-    "countryCode": "MX",
-    "latitude": 21.161,
-    "longitude": -86.851,
-    "player": "youtube",
-    "youtubeVideoId": "ZyIemjOTWa8",
-    "provider": "Webcams de México TV",
-    "timeZone": "America/Cancun"
-  },
-  {
     "id": "yt-hAGNCcPGae8",
     "name": "Cancún, Quintana Roo | Vista desde Grand Park Royal Luxury Resorts",
     "city": "Cancún",
@@ -2301,6 +2314,32 @@
     "timeZone": "Africa/Windhoek"
   },
   {
+    "id": "yt-bOXQKIrDqaU",
+    "name": "KATHMANDU LIVE CAM 🇳🇵 | NEPAL'S CAPITAL CITY LIVE | WEBCAM NEPAL",
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "countryCode": "NP",
+    "latitude": 27.717,
+    "longitude": 85.324,
+    "player": "youtube",
+    "youtubeVideoId": "bOXQKIrDqaU",
+    "provider": "WEBCAM NEPAL CITIES & TOWNS",
+    "timeZone": "Asia/Kathmandu"
+  },
+  {
+    "id": "yt-PCu2vdYlVJE",
+    "name": "WEBCAM NEPAL LIVE - KATHMANDU PTZ",
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "countryCode": "NP",
+    "latitude": 27.717,
+    "longitude": 85.324,
+    "player": "youtube",
+    "youtubeVideoId": "PCu2vdYlVJE",
+    "provider": "WEBCAM NEPAL CITIES & TOWNS",
+    "timeZone": "Asia/Kathmandu"
+  },
+  {
     "id": "yt-1phWWCgzXgM",
     "name": "Amsterdam - Stationseiland - Centraal station (4G mobile connection)",
     "city": "Amsterdam",
@@ -2392,7 +2431,7 @@
     "timeZone": "Pacific/Auckland"
   },
   {
-    "id": "yt-nLCMw_Fh0u0",
+    "id": "yt-wVtzYZkjQS8",
     "name": "Auckland Live Camera · Viaduct Harbour & Harbour Bridge, New Zealand · 4K 24/7",
     "city": "Auckland",
     "country": "New Zealand",
@@ -2400,7 +2439,7 @@
     "latitude": -36.849,
     "longitude": 174.763,
     "player": "youtube",
-    "youtubeVideoId": "nLCMw_Fh0u0",
+    "youtubeVideoId": "wVtzYZkjQS8",
     "provider": "Auckland Viaduct View",
     "timeZone": "Pacific/Auckland"
   },
@@ -2717,7 +2756,7 @@
     "timeZone": "Asia/Manila"
   },
   {
-    "id": "yt-Onz9Pqe6ckE",
+    "id": "yt-S2_oxLluFvA",
     "name": "Warszawa na żywo 🇵🇱 | Warsaw LIVE – panorama i Stadion Narodowy / City Skyline &",
     "city": "Warsaw",
     "country": "Poland",
@@ -2725,7 +2764,7 @@
     "latitude": 52.23,
     "longitude": 21.012,
     "player": "youtube",
-    "youtubeVideoId": "Onz9Pqe6ckE",
+    "youtubeVideoId": "S2_oxLluFvA",
     "provider": "Warsaw Livestream",
     "timeZone": "Europe/Warsaw"
   },
@@ -3039,6 +3078,19 @@
     "player": "youtube",
     "youtubeVideoId": "P-STvpyu1yA",
     "provider": "World Live Cam 24",
+    "timeZone": "Asia/Seoul"
+  },
+  {
+    "id": "yt-yzxiAJAXXtQ",
+    "name": "LIVE 4K Hongdae Seoul Street Cam 24/7 | Relaxing View for Work & Study | 홍대 라이브",
+    "city": "Seoul",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "latitude": 37.567,
+    "longitude": 126.978,
+    "player": "youtube",
+    "youtubeVideoId": "yzxiAJAXXtQ",
+    "provider": "홍대라이브 - Hongdae Live view",
     "timeZone": "Asia/Seoul"
   },
   {
@@ -3406,7 +3458,7 @@
     "timeZone": "Asia/Bangkok"
   },
   {
-    "id": "yt-2_AnuxbruZw",
+    "id": "yt-p21esOqffm8",
     "name": "SOUTH PATTAYA LIVE CAM",
     "city": "Pattaya",
     "country": "Thailand",
@@ -3414,12 +3466,12 @@
     "latitude": 12.927,
     "longitude": 100.877,
     "player": "youtube",
-    "youtubeVideoId": "2_AnuxbruZw",
+    "youtubeVideoId": "p21esOqffm8",
     "provider": "SOUTH PATTAYA LIVE CAM",
     "timeZone": "Asia/Bangkok"
   },
   {
-    "id": "yt-Mc01s4zWcYU",
+    "id": "yt-EBNS8SGzFnY",
     "name": "Soi Buakhao, Pattaya Live, Thailand",
     "city": "Pattaya",
     "country": "Thailand",
@@ -3427,7 +3479,7 @@
     "latitude": 12.927,
     "longitude": 100.877,
     "player": "youtube",
-    "youtubeVideoId": "Mc01s4zWcYU",
+    "youtubeVideoId": "EBNS8SGzFnY",
     "provider": "ole petter løbak (ice_baby)",
     "timeZone": "Asia/Bangkok"
   },
@@ -3521,19 +3573,6 @@
     "youtubeVideoId": "v4wU629WmXk",
     "provider": "SkyRadar 24",
     "timeZone": "Europe/Istanbul"
-  },
-  {
-    "id": "yt-Ex4f5mw4eLU",
-    "name": "UKRAINE LIVE NOW Real-Time Cameras Kyiv, Kharkiv, Odesa, Zaporizhzhia, Donetsk a",
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "countryCode": "UA",
-    "latitude": 50.45,
-    "longitude": 30.524,
-    "player": "youtube",
-    "youtubeVideoId": "Ex4f5mw4eLU",
-    "provider": "Aurelian Mocanu",
-    "timeZone": "Europe/Kyiv"
   },
   {
     "id": "yt-e2gC37ILQmk",
@@ -3692,15 +3731,15 @@
     "timeZone": "Europe/London"
   },
   {
-    "id": "yt--QaPVrx_CNk",
-    "name": "Heathrow Airport Live - Thursday 26th November 2026",
+    "id": "yt-tl4arWbbmZk",
+    "name": "Heathrow Airport Live - Friday 27th November 2026",
     "city": "London",
     "country": "United Kingdom",
     "countryCode": "GB",
     "latitude": 51.46799,
     "longitude": -0.45505,
     "player": "youtube",
-    "youtubeVideoId": "-QaPVrx_CNk",
+    "youtubeVideoId": "tl4arWbbmZk",
     "provider": "Flight Focus 365",
     "timeZone": "Europe/London"
   },
@@ -3875,7 +3914,7 @@
   },
   {
     "id": "yt-wPCrbAjyl6U",
-    "name": "Boston Common LIVE - Thanksgiving over the Common | 24/7 Boston Skyline Webcam",
+    "name": "Boston Common LIVE - 24/7 Boston Skyline Webcam | Prudential, Frog Pond & Back B",
     "city": "Boston",
     "country": "United States",
     "countryCode": "US",
